@@ -305,7 +305,7 @@
 			<task ID="287" UniqueID="71" OutlineLevel="3" Name="&#207;&#181;&#205;&#179;&#206;&#172;&#187;&#164;&#188;&#198;&#187;&#174;" FreeSlack="214d" TotalSlack="214d" Duration="1d" ConstraintDate="2018-01-16T08:00" Start="2018-01-16T08:00" Finish="2018-01-16T17:00" EarlyStart="2018-01-16T08:00" EarlyFinish="2018-01-16T17:00" LateStart="2018-11-12T08:00" LateFinish="2018-11-12T17:00" EffortDriven="yes" ConstraintType="Start No Earlier Than" FixedCostAccrual="Prorated"/>
 			<task ID="288" UniqueID="428" OutlineLevel="2" Name="&#207;&#238;&#196;&#191;&#215;&#220;&#189;&#225;" FreeSlack="213d" TotalSlack="213d" Duration="1d" ConstraintDate="2018-01-17T08:00" Start="2018-01-17T08:00" Finish="2018-01-17T17:00" EarlyStart="2018-01-17T08:00" EarlyFinish="2018-01-17T17:00" LateStart="2018-11-12T08:00" LateFinish="2018-11-12T17:00" EffortDriven="yes" ConstraintType="Start No Earlier Than" FixedCostAccrual="Prorated"/>
 		</tasks>
-		<outline current="428"/>
+		<outline current="336"/>
 	</proj>
 	<printInfo mode="scale" orient="landscape" pagesWide="1" pagesHigh="1" scale="100%" bw="no" enlarge="no" byColumn="no" adjustPageBreaks="no" marginTop="36pt" marginLeft="36pt" marginBottom="36pt" marginRight="36pt"/>
 	<pageLayouts>
@@ -444,7 +444,7 @@
 			<border id="frame" bkcolor="none"/>
 		</pageLayout>
 	</pageLayouts>
-	<views current="Planning View 2" current_wbs="Planning View 2" mode="online">
+	<views current="Critical Path View" current_wbs="Critical Path View" mode="online">
 		<wbs_view id="Critical Path View 2" pagelayout="Page Layout 1" outlinesymbolpos="bottomcenter">
 			<item id="summary" before="14.4pt"/>
 			<item id="task" before="7.2pt" listmode="stemleft"/>
